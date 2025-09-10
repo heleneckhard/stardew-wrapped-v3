@@ -1,0 +1,27 @@
+{
+  "282": {
+    "name": "Ancient Fruit",
+    "category": "Crop",
+    "basePrice": 550
+  },
+  "303": {
+    "name": "Wine",
+    "category": "Artisan",
+    "basePrice": 400
+  },
+  "147": {
+    "name": "Largemouth Bass",
+    "category": "Fish",
+    "basePrice": 100
+  },
+  "270": {
+    "name": "Pumpkin",
+    "category": "Crop",
+    "basePrice": 320
+  },
+  "286": {
+    "name": "Pale Ale",
+    "category": "Artisan",
+    "basePrice": 300
+  }
+}
